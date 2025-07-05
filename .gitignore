@@ -34,3 +34,4 @@ firebase-config.ts
 # Environment variable files
 .env
 .env.*.local
+# Refine prepublish script at 2024-10-03 17:01:41 - 19582
