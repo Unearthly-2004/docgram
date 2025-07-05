@@ -1,0 +1,6 @@
+name = "docgram"
+compatibility_date = "2025-05-15"
+
+[site]
+bucket = "./dist"
+entry-point = "."# Adjust test configuration at 2024-10-18 14:16:11 - 6002
