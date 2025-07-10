@@ -5,3 +5,4 @@
 # Improve documentation at 2024-11-05 09:01:14 - 8919
 # Improve documentation at 2024-11-07 09:19:24 - 14712
 # Refine prepublish script at 2024-10-02 14:00:44 - 26262
+# Update entry-point at 2024-10-05 09:51:38 - 20709
